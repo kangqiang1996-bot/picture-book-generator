@@ -78,6 +78,15 @@ picture-book-generator/
 
 Clone this repository into your Codex skills directory:
 
+```bash
+git clone https://github.com/kangqiang1996-bot/picture-book-generator.git ~/.codex/skills/picture-book-generator
+```
+
+On Windows PowerShell:
+
+```powershell
+git clone https://github.com/kangqiang1996-bot/picture-book-generator.git "$env:USERPROFILE\.codex\skills\picture-book-generator"
+```
 
 
 Restart Codex, then ask:
