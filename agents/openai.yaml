@@ -1,0 +1,4 @@
+interface:
+  display_name: "Picture Book Generator"
+  short_description: "Plan consistent picture books and KDP-oriented MVPs."
+  default_prompt: "Use $picture-book-generator to turn my story idea into a picture-book MVP with story beats, page plan, character/style bible, prompts, QA, and publishing notes."
